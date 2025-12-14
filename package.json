@@ -1,5 +1,8 @@
 {
 	"dependencies": {
+		"@capacitor/android": "^8.0.0",
+		"@capacitor/cli": "^8.0.0",
+		"@capacitor/core": "^8.0.0",
 		"@tailwindcss/postcss": "^4.1.17",
 		"tsconfig.dom.json": "link:@vue/tsconfig/tsconfig.dom.json"
 	}
